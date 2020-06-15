@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "KOK-24-FlagGame"
